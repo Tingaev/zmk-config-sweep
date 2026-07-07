@@ -57,10 +57,10 @@
 
         Digit_Symbols {
             bindings = <
-&kp N1  &kp N2  &kp N3  &kp N4  &kp N5    &kt CARET  &kp AMPERSAND  &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
-&kp N6  &kp N7  &kp N8  &kp N9  &kp N0    &trans     &trans         &trans        &trans                &trans
-&trans  &trans  &trans  &trans  &trans    &trans     &trans         &trans        &trans                &trans
-&trans  &trans                                                                    &trans                &trans
+&kp N1    &kp N2       &kp N3    &kp N4      &kp N5         &kt CARET       &kp AMPERSAND   &kp ASTERISK      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
+&kp N6    &kp N7       &kp N8    &kp N9      &kp N0         &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW      &kp RIGHT             &kp MINUS
+&kp EXCL  &kp AT_SIGN  &kp HASH  &kp DOLLAR  &kp PERCENT    &kp PLUS        &kp EQUAL       &kp LEFT_BRACKET  &kp RIGHT_BRACKET     &kp GRAVE
+&trans    &trans                                                                                              &trans                &trans
             >;
         };
     };
